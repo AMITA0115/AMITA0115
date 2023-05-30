@@ -76,9 +76,9 @@
   <tr>
     
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amita0115&show_icons=true&locale=en&layout=compact" alt="amita0115" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amita0115&show_icons=true&locale=en&layout=compact" alt="amita0115" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amita0115&show_icons=true&locale=en" alt="amita0115" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amita0115&show_icons=true&locale=en" alt="amita0115"</p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amita0115&" alt="amita0115" /></p>
 
