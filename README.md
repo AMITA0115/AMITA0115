@@ -20,7 +20,7 @@
  🤔 Check Out my <a href="https://drive.google.com/file/d/1MOY8euZd9OxhTGyV__jquPlGXFuCXS1b/view?usp=sharing">Resume</a>
   <br><br>
  👨‍💻 
-  😄 Click to check out my portfoloio <a href="amita0115.github.io/">Portfolio</a>
+  😄 Click to check out my portfoloio <a href="https://amita0115.github.io/">Portfolio</a>
   <br><br>
  😄 All of my projects are available at <a href="">My Github Repositories</a>
   <br><br>
